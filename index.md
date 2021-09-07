@@ -10,7 +10,7 @@ layout: default
 
 [Predicting the odds of a bank customer accepting a new campaign offer](./another-page.html)
 
-On this project the goal was to predict if a bank client would say yes or no to a new campaing offer proposed by the bank. This was a group project, in witch we used python and some of its libraries, the most important libraries where pandas, skl-learn and streamlit. For more details press the project name in blue above.
+On this project the goal was to predict if a bank client would say yes or no to a new campaign offer proposed by the bank. This was a group project, in which we used python and some of its libraries, the most important libraries where pandas, skl-learn and streamlit. For more details press the project name in blue above.
 
 
 ## Header 2
