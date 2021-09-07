@@ -6,7 +6,7 @@ layout: default
 
 ---
 
-###Machine learning projects
+### Machine learning projects
 
 [Predicting the odds of a bank customer accepting a new campaign offer](./another-page.html)
 
