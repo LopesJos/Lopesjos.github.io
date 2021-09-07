@@ -1,6 +1,6 @@
 title: Minimal theme
 logo: /assets/img/logo.png
-description: Graduate in Computer Graphics and Multimedia
+description: Graduate in Computer Graphics and Multimedia <br>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
