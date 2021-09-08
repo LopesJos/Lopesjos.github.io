@@ -9,7 +9,7 @@ layout: default
 ## Machine learning projects
 
 #### Predicting the odds of a bank customer accepting a new campaign offer
----
+
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/LopesJos/ML_project)
 
@@ -18,7 +18,7 @@ On this project the goal was to predict if a bank client would say yes or no to 
 ---
 
 #### Predicting if whether a constructor work has positive or negative cost.
----
+
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/LopesJos/ML_project)
 
