@@ -47,7 +47,7 @@ For this project we used Talend data quality, Talend data integration, MySql and
 
 I have done some projects with powerBI in the past, here are some of the reports I have done.
 
-<center><img src="assets/img/1-01.PNG"/></center>
+<center><img src="assets/img/pb.PNG"/></center>
 
 ---
 <center>© 2021 José Lopes. Powered by Jekyll and the Minimal Theme.</center>
