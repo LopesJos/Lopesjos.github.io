@@ -19,8 +19,8 @@ On this project the goal was to predict if a bank client would say yes or no to 
 
 #### Predicting if whether a constructor work has positive or negative cost.
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/LopesJos/ML_project)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Ml_2_report.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/LopesJos/ML_project_2)
 
 On this project the goal was to predict if whether a constructor work has positive or negative cost. This was a solo project, in which I used python and some of its libraries, the most important libraries where pandas, skl-learn and streamlit, similar to my other machine learning project.
 
