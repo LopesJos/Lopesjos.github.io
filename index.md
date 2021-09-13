@@ -15,6 +15,8 @@ layout: default
 
 On this project the goal was to predict if a bank client would say yes or no to a new campaign offer proposed by the bank. This was a group project, in which we used python and some of its libraries, the most important libraries where pandas, skl-learn and streamlit.
 
+<center><img src="images/bac2018.JPG"/></center>
+
 ---
 
 #### Predicting if whether a constructor work has positive or negative cost.
@@ -35,6 +37,13 @@ On this project the goal was to predict if whether a constructor work has positi
 
 On this project the goal was to deal with a big dataset, with about 2 million lines of data, do an ETL process on it and then make data visualizations with the data that resulted from the ETL process.
 For this project we used Talend data quality, Talend data integration, MySql and Tableau, unfortunately, I have lost the data visualision graphics that we did at the time, but I do have a video explaining what we did in detail on the ETL process. The video is narrated in Portuguese.
+
+
+---
+
+#### PowerBi visualizations
+
+I have done some projects with powerBI in the past, here are some of the reports I have done.
 
 
 ---
