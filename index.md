@@ -26,6 +26,8 @@ On this project the goal was to predict if a bank client would say yes or no to 
 
 On this project the goal was to predict if whether a constructor work has positive or negative cost. This was a solo project, in which I used python and some of its libraries, the most important libraries where pandas, skl-learn and streamlit, similar to my other machine learning project.
 
+<center><img src="assets/img/pjimage.jpg"/></center>
+
 ---
 
 
