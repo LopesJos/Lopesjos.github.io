@@ -15,7 +15,7 @@ layout: default
 
 On this project the goal was to predict if a bank client would say yes or no to a new campaign offer proposed by the bank. This was a group project, in which we used python and some of its libraries, the most important libraries where pandas, skl-learn and streamlit.
 
-<center><img src="images/bac2018.JPG"/></center>
+<center><img src="images/pjimage(1).jpg"/></center>
 
 ---
 
