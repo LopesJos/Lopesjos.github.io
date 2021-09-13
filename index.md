@@ -36,3 +36,6 @@ On this project the goal was to predict if whether a constructor work has positi
 On this project the goal was to deal with a big dataset, with about 2 million lines of data, do an ETL process on it and then make data visualizations with the data that resulted from the ETL process.
 For this project we used Talend data quality, Talend data integration, MySql and Tableau, unfortunately, I have lost the data visualision graphics that we did at the time, but I do have a video explaining what we did in detail on the ETL process. The video is narrated in Portuguese.
 
+
+---
+<center>© 2021 José Lopes. Powered by Jekyll and the Minimal Theme.</center>
