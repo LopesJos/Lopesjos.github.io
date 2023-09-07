@@ -9,9 +9,10 @@ layout: default
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Airbnb.md)
 
 
-## Other Projects
+## Older Projects
 
 ---
+### Machine Learning Projects
 
 #### Predicting the odds of a bank customer accepting a new campaign offer
 
