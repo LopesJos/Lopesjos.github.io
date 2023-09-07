@@ -34,7 +34,7 @@ layout: default
 
 #### 911 Calls
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](911.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/911.html)
 
 <center><img src="projects/911.png"/></center>
 
