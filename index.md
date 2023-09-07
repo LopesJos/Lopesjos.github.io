@@ -18,7 +18,7 @@ layout: default
 
 #### Elden Ring Reviews
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Elden Ring Mining Words.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/EldenRing.html)
 
 <center><img src="projects/boneco_elden.png"/></center>
 
