@@ -5,9 +5,23 @@ layout: default
 # Portfolio
 
 ## Phyton Data Analysis
----
-[Bruh](projects/Airbnb.ipynb)
 
+---
+
+#### Airbnb's in New York
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Airbnb.html)
+
+<center><img src="projects/AIRBNNNVB.png"/></center>
+---
+
+#### Elden Ring Reviews
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Elden Ring Mining Words.html)
+
+<center><img src="projects/boneco_elden.png"/></center>
+
+---
 
 ## Older Projects
 
