@@ -26,7 +26,7 @@ layout: default
 
 #### Covid Deaths Mapping
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Covid_Map(1).html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Covid_Map(1).html)
 
 <center><img src="projects/Covid_Map.png"/></center>
 
@@ -42,7 +42,7 @@ layout: default
 
 #### City Bikes
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](citybikes.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/citybikes.html)
 
 <center><img src="projects/City Bikes.png"/></center>
 
