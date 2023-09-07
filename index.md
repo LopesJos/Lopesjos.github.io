@@ -6,7 +6,7 @@ layout: default
 
 ## Phyton Data Analysis
 ---
-[Bruh](projects/Airbnb.md)
+[Bruh](projects/Airbnb.ipynb)
 
 
 ## Older Projects
