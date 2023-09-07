@@ -16,11 +16,35 @@ layout: default
 
 ---
 
-#### Elden Ring Reviews
+#### Elden Ring Game Reviews
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/EldenRing.html)
 
 <center><img src="projects/boneco_elden.png"/></center>
+
+---
+
+#### Covid Deaths Mapping
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Covid_Map(1).html)
+
+<center><img src="projects/Covid_Map.png"/></center>
+
+---
+
+#### 911 Calls
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](911.html)
+
+<center><img src="projects/911.png"/></center>
+
+---
+
+#### City Bikes
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](citybikes.html)
+
+<center><img src="projects/City Bikes.png"/></center>
 
 ---
 
