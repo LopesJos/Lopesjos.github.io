@@ -40,7 +40,7 @@ layout: default
 
 ---
 
-#### City Bikes
+#### New York City Bikes Use
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/citybikes.html)
 
