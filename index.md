@@ -4,6 +4,11 @@ layout: default
 
 # Portfolio
 
+## Phyton Data Analysis
+---
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Airbnb.md)
+
+
 ## Other Projects
 
 ---
