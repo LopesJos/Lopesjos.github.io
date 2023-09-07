@@ -4,7 +4,7 @@ layout: default
 
 # Portfolio
 
-## Machine learning projects
+## Other Projects
 
 ---
 
@@ -30,8 +30,6 @@ On this project the goal was to predict if whether a constructor work has positi
 
 ---
 
-
-## Other projects
 
 #### Data warehouse project
 
