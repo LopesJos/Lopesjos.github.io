@@ -6,7 +6,7 @@ layout: default
 
 ## Phyton Data Analysis
 ---
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/Airbnb.md)
+[Bruh](projects/Airbnb.md)
 
 
 ## Older Projects
